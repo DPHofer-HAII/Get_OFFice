@@ -2,7 +2,7 @@ Get OFFice: An Anti-Work Project
 
 During a class (Design Thinking) my colleagues (N.F., S.H., and D.K.) and I came up with the idea of a “smart office that allows workaholics to quit work ‘on time’” (using some Design Thinking methods, etc.). Being inspired by critical design we thought it would be fun to create a slowly adapting environment which increasingly makes it difficult to be productive. We came up with some ideas for every taste of masochism (and there are probably way more 😉):
 
-IMAGE - IDEAS
+![Alt text](https://github.com/DPHofer-AI/Get_OFFice/blob/main/Images/Ideas.jpg "Potential ideas")
  
 Our first final low-fidelity prototype is a sketch depicting how the Get OFFice could be executed (Figure 2 & 3):
 
