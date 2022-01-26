@@ -17,8 +17,8 @@ The second final low-fidelity prototype (powered by Figma) is the cube control i
 The cube has four stages: “10 minutes till work is over”, “20 minutes past work-time”, “40 minutes past work-time”, and the final stage “60 minutes past work-time”. With each phase an additional feature gets started and continuously increases.
 We also dropped the spike idea in favour of heat control. Simply because it is easier to integrate in a smart home than creating this chair (if anyone wants to do a research project about the chair – text me!).
 
-This brings me to the high-fidelity prototype: Unity. We created a prototype which resembles an office and the four chosen features. With the time passing, the cube starts moving, initiating different phases. The video shows the final prototype.
+This brings me to the high-fidelity prototype: Unity. We created a prototype which resembles an office and the four chosen features. With the time passing, the cube starts moving, initiating different phases. Two videos can be found in the folder [Recording](https://github.com/DPHofer-AI/Get_OFFice/tree/main/Recordings).
 
-VIDEO
+![Alt text](https://github.com/DPHofer-AI/Get_OFFice/blob/main/Images/A_torture_room_for_ones_own_Moment.jpg "Image of the final prototype")
 
 And that’s already the end. The code is available at https://github.com/DPHofer-AI/Get_OFFice. Leave a comment if you want to get in touch with us, share something, have a great idea, and/or also did something similar. Have a nice day 😊
