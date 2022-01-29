@@ -54,6 +54,7 @@ void Update()
             minutes++;
             if(minutes > 60)
             {
+                Time.timeScale = 0;
                 minutes = 0;
                 hour++;
                 if(hour >= 24)

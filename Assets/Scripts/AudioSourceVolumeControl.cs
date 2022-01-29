@@ -19,7 +19,7 @@ public class AudioSourceVolumeControl : MonoBehaviour
     {
         minutes = clockObject.GetComponent<Clock>().minutes;
         // Reference Clock minute hier && if minute >= 15 start coroutine
-        if (minutes >= 1 && !coroutineOn)
+        if (minutes >= 45 && !coroutineOn)
         {
             StartCoroutine(ChangeVolumeCoroutine());
             coroutineOn = true;

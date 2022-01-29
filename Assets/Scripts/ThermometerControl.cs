@@ -21,7 +21,7 @@ public class ThermometerControl : MonoBehaviour
         // Starts automatically -> we like to boil frogs slowly ;-)
         minutes = clockObject.GetComponent<Clock>().minutes;
         // Reference Clock minute hier && if minute >= 15 start coroutine
-        if (minutes >= 45 && !coroutineOn)
+        if (minutes >= 1 && !coroutineOn)
         {
             StartCoroutine(heating());
             coroutineOn = true;
@@ -34,7 +34,7 @@ public class ThermometerControl : MonoBehaviour
         for(int i = 0; i < 120; i++)
         {
             // increase temperature
-            temperature += 0.5f;
+            temperature += 0.1f;
 
             // Change text of thermometer
             GetComponent<TextMesh>().text = temperature.ToString("F1");
